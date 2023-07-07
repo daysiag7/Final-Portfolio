@@ -1,0 +1,9 @@
+[submodule "technical-projects/inventory_app_project_v2_mysql"]
+	path = technical-projects/inventory_app_project_v2_mysql
+	url = https://github.com/Runtime-terror12/inventory_app_project_v2_mysql.git
+[submodule "technical-projects/loginproject"]
+	path = technical-projects/loginproject
+	url = https://github.com/daysiag7/loginproject.git
+[submodule "technical-projects/ticketmaster"]
+	path = technical-projects/ticketmaster
+	url = https://github.com/Multiverse-Cardinals/ticketmaster.git
